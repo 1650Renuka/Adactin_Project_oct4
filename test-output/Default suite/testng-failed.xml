@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.Testng.Adactin.TestNg_Demo_Runner">
+        <methods>
+          <include name="config"/>
+          <include name="tearDown"/>
+          <include name="username"/>
+        </methods>
+      </class> <!-- com.Testng.Adactin.TestNg_Demo_Runner -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

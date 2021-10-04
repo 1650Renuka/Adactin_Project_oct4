@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-04T07:54:05Z" name="Default suite" finished-at="2021-10-04T07:54:20Z" duration-ms="14948">
+    <groups>
+    </groups>
+    <test started-at="2021-10-04T07:54:05Z" name="Default test" finished-at="2021-10-04T07:54:20Z" duration-ms="14948">
+      <class name="com.Testng.Adactin.TestNg_Demo_Runner">
+        <test-method is-config="true" signature="config()[pri:0, instance:com.Testng.Adactin.TestNg_Demo_Runner@9bd0fa6]" started-at="2021-10-04T13:24:05Z" name="config" finished-at="2021-10-04T13:24:09Z" duration-ms="3080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="launch_Url()[pri:0, instance:com.Testng.Adactin.TestNg_Demo_Runner@9bd0fa6]" started-at="2021-10-04T13:24:09Z" name="launch_Url" finished-at="2021-10-04T13:24:14Z" duration-ms="5289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_Url -->
+        <test-method signature="password()[pri:0, instance:com.Testng.Adactin.TestNg_Demo_Runner@9bd0fa6]" started-at="2021-10-04T13:24:14Z" name="password" finished-at="2021-10-04T13:24:15Z" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method signature="username()[pri:0, instance:com.Testng.Adactin.TestNg_Demo_Runner@9bd0fa6]" started-at="2021-10-04T13:24:15Z" name="username" finished-at="2021-10-04T13:24:15Z" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username -->
+        <test-method signature="login()[pri:1, instance:com.Testng.Adactin.TestNg_Demo_Runner@9bd0fa6]" started-at="2021-10-04T13:24:15Z" name="login" finished-at="2021-10-04T13:24:18Z" duration-ms="3274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Testng.Adactin.TestNg_Demo_Runner@9bd0fa6]" started-at="2021-10-04T13:24:18Z" name="tearDown" finished-at="2021-10-04T13:24:20Z" duration-ms="2221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Testng.Adactin.TestNg_Demo_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
